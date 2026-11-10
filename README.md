@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="icon.png" width="128" height="128" alt="Unwrap per Android">
+</p>
+
 # Unwrap per Android
 
 Qui si scaricano i pacchetti di installazione (`.apk`) di **Unwrap per Android**.
@@ -6,12 +10,12 @@ Unwrap apre i file firmati digitalmente `.p7m` e `.m7m` e mostra subito il docum
 
 ## Scarica
 
-➡️ **[Unwrap-1.0-17-sito.apk — versione 1.0 beta (build 17)](https://github.com/frabolla/unwrap-android-release/releases/latest/download/Unwrap-1.0-17-sito.apk)**
+➡️ **[Pagina dei rilasci (Releases)](https://github.com/frabolla/unwrap-android-release/releases)**
 
-Tutte le versioni sono nella pagina [Releases](https://github.com/frabolla/unwrap-android-release/releases).
+Scarica l'ultimo pacchetto `.apk` disponibile nella sezione Releases.
 
 ### Come installare
-1. Scarica il pacchetto `.apk` sul tuo smartphone o tablet Android.
+1. Scarica il file `.apk` sul tuo smartphone o tablet Android.
 2. Apri il file scaricato (dalla barra delle notifiche o da *File* / *Download*).
 3. Se Android chiede l'autorizzazione a installare app sconosciute per l'app usata per scaricare (es. Chrome o Files), tocca **Impostazioni** e attiva l'interruttore.
 4. Tocca **Installa**.
@@ -38,7 +42,7 @@ Nessun account, nessun dato personale raccolto, nessuna pubblicità, nessun trac
 
 ## English
 
-Download **[Unwrap-1.0-17-sito.apk](https://github.com/frabolla/unwrap-android-release/releases/latest/download/Unwrap-1.0-17-sito.apk)** on your Android device and install it. Requires Android 13 or later. Free.
+Download the latest `.apk` package from the **[Releases](https://github.com/frabolla/unwrap-android-release/releases)** page and install it on your Android device. Requires Android 13 or later. Free.
 
 Opens signed `.p7m` and `.m7m` files instantly: PDF, e-invoices, email messages, XML, JSON, text and images. All document processing is 100% offline and private. Website: <https://unwrapapp.it>
 
